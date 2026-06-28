@@ -1,5 +1,3 @@
-"""Plot positive alpha-stable tau curves without importing this repository."""
-
 from math import gamma, pi, sin
 
 import matplotlib.pyplot as plt
